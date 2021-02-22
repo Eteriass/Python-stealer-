@@ -18,8 +18,8 @@ import time
 import re
 
 os.chdir(os.getenv("TMP"))
-tgtoken = "AAFMU2xn0iy8jTwGGqqNWSkRgEqJehhLgFI"
-userid = 1111262860
+tgtoken = "Your bot token"
+userid = id
 tb = telebot.TeleBot(tgtoken)
 
 
